@@ -1,0 +1,156 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300italic,300,600,800);
+
+header {
+	background-image: url(../images/header_bg.jpg);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 250px;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	background: #f0efef;
+	color: #121212;
+	margin: 0px;
+}
+
+section.quote {
+	background-image: url(../images/header_bg.jpg);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 0px;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 24px;
+	color: #ffffff;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+}
+
+h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 18px;
+	color: #ffffff;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	color: #121212;
+}
+
+p.footer {
+	font-size: 9px;
+	font-weight: 600;
+	color: #ffffff;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+nav {
+	display: inline;
+	padding: 30px;
+	margin: 30px;
+	text-align: center;
+}
+
+ul li:nth-child(even) {
+	font-weight: 600;
+}
+
+footer {
+	background: #121212;
+	margin-bottom: 0px;
+}
+
+blockquote {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 18px;
+	text-align: center;
+}
+
+h1.logo-white {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 800;
+	color: #ffffff;
+	margin-top: 0px;
+	padding: 10px 0px 0px 5px;
+}
+
+h1.logo-yellow {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	font-weight: 800;
+	color: #f9e42e;
+	text-align: center;
+	margin-top: 0px;
+}
+
+section.yellow {
+	background: #f9e42e;
+	height: 70px;
+}
+
+button.yellow {
+	margin: 30px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 800;
+	font-size: 14px;
+	background: #f9e42e;
+	border: 0px;
+	-moz-box-shadow: 3px 3px #999999;
+    -webkit-box-shadow: 3px 3px #999999;
+    -ms-box-shadow: 3px 3px #999999;
+    -o-box-shadow: 3px 3px #999999;
+	box-shadow: 3px 3px #999999;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+    -moz-transition: width 2s;
+    -webkit-transition: width 2s;
+    -ms-transition: width 2s;
+    -o-transition: width 2s;
+    transition: width 2s;
+}
+
+button.yellow:hover {
+	width: 100px;
+}
+
+button.navy {
+	margin-top: 25px;
+	font-family: 'Open Sans', sans-serif;
+	background: #033048;
+	font-weight: 800;
+	font-size: 14px;
+	color: #ffffff;
+	border: 0px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-radius: 5px;
+}
