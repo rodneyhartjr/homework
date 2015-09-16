@@ -1,0 +1,42 @@
+div.top {
+	width: 100%;
+	background: #999999;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+	margin: 10px 0px;
+}
+
+div.float-left {
+	float: left;
+	width: 20%;
+	background: #999999;
+	height: 300px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 3% 10px 0px;
+}
+
+div.float-middle {
+	float: left;
+	width: 54%;
+	background: #999999;
+	height: 300px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 3% 10px 0px;
+}
+
+div.float-right {
+	float: left;
+	width: 20%;
+	background: #999999;
+	height: 300px;
+	/*border: 1px solid #222222;*/
+	margin-bottom: 10px;
+}
+
+div.bottom {
+	width: 100%;
+	background: #999999;
+	clear: both;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+}

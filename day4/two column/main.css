@@ -1,0 +1,33 @@
+div.top {
+	width: 100%;
+	background: #999999;
+	height: 50px;
+	border: 1px solid #222222;
+	margin: 10px 0px;
+}
+
+div.float-left {
+	float: left;
+	width: 70%;
+	background: #999999;
+	height: 300px;
+	border: 1px solid #222222;
+	margin-bottom: 10px;
+}
+
+div.float-right {
+	float: right;
+	width: 25%;
+	background: #999999;
+	height: 300px;
+	border: 1px solid #222222;
+	margin-bottom: 10px;
+}
+
+div.bottom {
+	width: 100%;
+	background: #999999;
+	clear: both;
+	height: 50px;
+	border: 1px solid #222222;
+}

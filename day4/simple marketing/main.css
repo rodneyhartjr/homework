@@ -1,0 +1,60 @@
+div.top {
+	width: 100%;
+	background: #999999;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+	margin: 10px 0px;
+}
+
+div.float-left-half {
+	float: left;
+	width: 49.5%;
+	background: #999999;
+	height: 150px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 1% 10px 0px;
+}
+
+div.float-right-half {
+	float: right;
+	width: 49.5%;
+	background: #999999;
+	height: 150px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 0px 10px 0px;
+}
+
+div.float-left {
+	float: left;
+	width: 32.666666%;
+	background: #999999;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 1% 10px 0px;
+}
+
+div.float-middle {
+	float: left;
+	width: 32.666666%;
+	background: #999999;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 1% 10px 0px;
+}
+
+div.float-right {
+	float: left;
+	width: 32.666666%;
+	background: #999999;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+	margin-bottom: 10px;
+}
+
+div.bottom {
+	width: 100%;
+	background: #999999;
+	clear: both;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+}

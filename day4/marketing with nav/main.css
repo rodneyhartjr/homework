@@ -1,0 +1,92 @@
+nav {
+	width: 100%;
+}
+
+div.logo {
+	float: left;
+	width: 30%;
+	background: #999999;
+	height: 50px;
+	margin: 0px 0px 10px 0px;
+	/*border: 1px solid #222222;*/
+}
+
+div.link-1 {
+	float: right;
+	width: 12%;
+	background: #999999;
+	height: 24px;
+	margin: 13px 0px 0px 0px;
+	/*border: 1px solid #222222;*/
+}
+
+div.link-2 {
+	float: right;
+	width: 12%;
+	background: #999999;
+	height: 24px;
+	margin: 13px 1% 0px 0px;
+	/*border: 1px solid #222222;*/
+}
+
+div.link-3 {
+	float: right;
+	width: 12%;
+	background: #999999;
+	height: 24px;
+	margin: 13px 1% 0px 0px;
+	/*border: 1px solid #222222;*/
+}
+
+div.link-4 {
+	float: right;
+	width: 12%;
+	background: #999999;
+	height: 24px;
+	margin: 13px 1% 0px 0px;
+	/*border: 1px solid #222222;*/
+}
+
+div.top {
+	width: 100%;
+	background: #999999;
+	height: 200px;
+	/*border: 1px solid #222222;*/
+	margin: 10px 0px;
+	clear: both;
+}
+
+div.float-left {
+	float: left;
+	width: 32.666666%;
+	background: #999999;
+	height: 75px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 1% 10px 0px;
+}
+
+div.float-middle {
+	float: left;
+	width: 32.666666%;
+	background: #999999;
+	height: 75px;
+	/*border: 1px solid #222222;*/
+	margin: 0px 1% 10px 0px;
+}
+
+div.float-right {
+	float: left;
+	width: 32.666666%;
+	background: #999999;
+	height: 75px;
+	/*border: 1px solid #222222;*/
+	margin-bottom: 10px;
+}
+
+div.bottom {
+	width: 100%;
+	background: #999999;
+	clear: both;
+	height: 50px;
+	/*border: 1px solid #222222;*/
+}
